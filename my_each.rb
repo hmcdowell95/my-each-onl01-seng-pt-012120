@@ -7,6 +7,6 @@ def my_each(collection)
     end
   collection
   else 
-    
+    return ""
   end
 end
