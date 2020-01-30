@@ -1,4 +1,3 @@
 def my_each(collection)
-  collection do |i|
-    if 
+  if block_given?
 end
